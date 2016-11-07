@@ -12,9 +12,7 @@ h4{
 .one {
   height: 600px;
   width: auto;
-  background-image: url("/home/wmbotela/Desktop/Moringa_Prep/Self_assesment/coderamp-selfassessments-master/sa2/assets/backgrounds/landing.jpg");
-  border: 2px solid darkgrey;
-
+  background-image: url(assets/backgrounds/landing.jpg);
 }
 
 
@@ -36,20 +34,20 @@ h4{
   background-color: orange
 }
 .breakfast{
-  background-image: url(/home/wmbotela/Desktop/Moringa_Prep/Self_assesment/coderamp-selfassessments-master/sa2/assets/foodtop/breakfast.jpg);
+  background-image: url(/assets/foodtop/breakfast.jpg);
   color: white;
   padding:100px 50px;
   text-align: center;
 }
 .lunch{
-  background-image: url(/home/wmbotela/Desktop/Moringa_Prep/Self_assesment/coderamp-selfassessments-master/sa2/assets/foodtop/lunch.jpg);
+  background-image: url(assets/foodtop/lunch.jpg);
   color: white;
   padding:100px 0;
   opacity: 0.5;
   text-align: center;
 }
 .dinner{
-  background-image: url(/home/wmbotela/Desktop/Moringa_Prep/Self_assesment/coderamp-selfassessments-master/sa2/assets/foodtop/dinner.jpg);
+  background-image: url(assets/foodtop/dinner.jpg);
   color: white;
   padding:100px 0;
   text-align: center;
